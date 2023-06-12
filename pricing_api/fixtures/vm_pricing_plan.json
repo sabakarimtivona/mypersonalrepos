@@ -1,0 +1,26 @@
+[
+    {
+        "model": "pricing_api.VmPricingPlan",
+        "fields": {
+            "type": "Pay as you go"
+        }
+    },
+    {
+        "model": "pricing_api.VmPricingPlan",
+        "fields": {
+            "type": "1 year savings plan"
+        }
+    },
+    {
+        "model": "pricing_api.VmPricingPlan",
+        "fields": {
+            "type": "3 year savings plan"
+        }
+    },
+    {
+        "model": "pricing_api.VmPricingPlan",
+        "fields": {
+            "type": "Spot"
+        }
+    }
+]
